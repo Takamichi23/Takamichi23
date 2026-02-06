@@ -8,9 +8,10 @@ I'm a **Frontend Developer** and **UI/UX Designer** with some backend and networ
 
 ### Frontend
 - HTML, CSS, Tailwind, JavaScript  
-- Vue.js, REACT  
+- Vue.js  
 
 ### Backend
+- Java, C#, Python
 - Django, FastAPI, Node.js   
 - REST APIs  
 - MySQL, PHP  
